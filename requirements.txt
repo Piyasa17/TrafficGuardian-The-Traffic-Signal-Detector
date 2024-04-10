@@ -1,5 +1,4 @@
 streamlit
-pillowcirq-core==0.13.1
 cirq-google==0.13.1
 sympy==1.8
 numpy==1.19.5  
