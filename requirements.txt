@@ -1,6 +1,5 @@
 streamlit
-PIL
+pillow
 numpy
 os
 keras
-keras.models
