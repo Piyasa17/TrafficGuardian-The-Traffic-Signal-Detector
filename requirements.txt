@@ -2,4 +2,5 @@ streamlit
 pillow
 numpy
 keras-models
+tensorflow
 keras
