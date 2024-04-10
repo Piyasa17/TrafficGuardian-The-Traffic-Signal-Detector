@@ -1,6 +1,4 @@
 streamlit
 pillow
-numpy
-keras-models
-tensorflow
-keras
+tensorflow==1.15.5
+keras==2.3.1
