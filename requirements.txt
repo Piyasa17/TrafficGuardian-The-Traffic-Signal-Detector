@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.0.0
 pillow
-tensorflow
-keras
+tensorflow==2.7.0
+keras==2.7.0
