@@ -1,4 +1,5 @@
 streamlit
 pillow
 numpy
+keras-models
 keras
